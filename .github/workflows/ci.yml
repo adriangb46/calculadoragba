@@ -1,4 +1,4 @@
-name: CI CalculatorAAN
+name: CI CalculatorGBA
 
 on:
   push:

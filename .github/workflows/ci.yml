@@ -50,3 +50,6 @@ jobs:
 
       - name: Fuerza comprobación de cobertura de código
         run: ./gradlew jacocoTestCoverageVerification --no-daemon
+
+      - name: Análisis estático de código
+        run: ./gradlew checkstyleMain --no-daemon

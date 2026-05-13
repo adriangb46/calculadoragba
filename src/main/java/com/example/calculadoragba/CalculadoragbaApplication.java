@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CalculadoragbaApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(CalculadoragbaApplication.class, args);
-	}
-
+public static void main(String[] args) {
+SpringApplication.run(CalculadoragbaApplication.class, args);
+}
 }

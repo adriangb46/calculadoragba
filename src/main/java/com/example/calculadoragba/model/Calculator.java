@@ -3,7 +3,7 @@ package com.example.calculadoragba.model;
 import org.springframework.stereotype.Service;
 
 @Service
-public class Calulator {
+public class Calculator {
 
     public int sum(int a, int b) {
         return a + b;
